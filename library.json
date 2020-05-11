@@ -1,0 +1,20 @@
+{
+    "name": "MPU-9250-ESP32-Library-Calibration-EEPROM",
+    "keywords": "i2c,wire,imu,mpu9250,calibration,eeprom",
+    "description": "Arduino library for the MPU-9250 IMU that includes a calibration function that can save the data to the device's EEPROM."
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/kian2attari/MPU-9250-ESP32-Library-Calibration-EEPROM.git"
+    },
+    "authors":
+    {
+        "name": "kian2attari",
+        "url": "https://github.com/kian2attari,
+        "maintainer": true
+    },
+    "version": "0.1",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}

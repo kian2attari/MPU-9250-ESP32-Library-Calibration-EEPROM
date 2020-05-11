@@ -1,7 +1,7 @@
 # MPU-9250-ESP32-Library-Calibration
 An easy-to-use library for the MPU-9250 that includes a straightforward calibration function and also allows you to customize magnetic declination. The calibration is saved to the device's EEPROM (or virtual EEPROM in the case of the ESP32) so you won't have to keep recalibrating every time!
 
-This library is based on [Kris Winer's legendary MPU9250 library](https://github.com/kriswiner/MPU9250) and [hideakitai's awesome MPU9250 library here](https://github.com/hideakitai/MPU9250). 
+This library is based on [Kris Winer's legendary MPU9250 library](https://github.com/kriswiner/MPU9250) and [hideakitai's MPU9250 library here](https://github.com/hideakitai/MPU9250). 
 
 ## Usage
 
